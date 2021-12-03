@@ -17,7 +17,7 @@ public class ListNode {
     }
 }
 
-class AddTwoNumbersSolution {
+class Solution2 {
     
     //迭代
     func addTwoNumbers(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {

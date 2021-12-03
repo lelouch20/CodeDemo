@@ -8,7 +8,7 @@
 
 import Foundation
 
-class TwoSumSolution {
+class Solution1 {
     func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
         var numDic = [Int: Int]()
         
